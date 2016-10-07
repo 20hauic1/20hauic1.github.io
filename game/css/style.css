@@ -1,0 +1,36 @@
+body {
+  background-image: url("https://thumbs.dreamstime.com/x/soldier-aiming-enemy-21469955.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.score-box {
+  border: 1px solid black;
+  width: 20%;
+  height: 100px;
+  Text-align: center;
+}
+
+.arrow {
+  position: absolute;
+}
+
+#right-arrow-main {
+  width: 10%;
+  left: 90%;
+  right: 0;
+}
+
+#left-arrow-main {
+  width: 10%;
+}
+
+#left-arrow-rightroom {
+  width: 10%;
+} 
+
+#right-arrow-leftroom {
+  width: 10%;
+  left: 90%;
+  right: 0;
+}
